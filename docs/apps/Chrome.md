@@ -9,9 +9,20 @@ order: 5
 
 ## 浏览器
 
-- edge 浏览器
-- 
-- 
+- [Edge 浏览器](https://www.microsoft.com/zh-cn/edge/download?form=MA13FJ): Windows系统自带浏览器，现已更换chromium内核，并且自带很多国产功能，好处是不用魔法就可以同步。
+- [Google Chrome 浏览器](https://www.google.com/intl/zh-CN/chrome/)：Google出品，桌面浏览器霸主，有魔法以后非常好用。
+- [Firefox 浏览器](https://www.mozilla.org/en-US/firefox/new/)： Mozilla出品，自由以及开源，Ubuntu内置浏览器，使用Gecko内核。
+
+## 必备插件
+
+- [AdGuard 广告拦截程序浏览器扩展](https://adguard.com/zh_cn/adguard-browser-extension/overview.html)： 屏蔽广告神器，高度自定义的过滤器。
+- [Proxy SwitchyOmega](https://chromewebstore.google.com/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)：搭配clash可以做到不开系统代理的情况下特定网站使用代理。
+- [Dark Reader](https://darkreader.org/)： 可自定义时间点、根据经纬度或者系统配色更改夜间模式。
+- [Vimium C](https://github.com/gdh1995/vimium-c)：全键盘操作浏览器，建议启用 `chrome://flags/#extensions-on-chrome-urls`。
+- [Tampermonkey](https://www.tampermonkey.net/index.php?locale=zh_CN)：油猴脚本管理器，方便管理脚本。
+- [smartUp手势](https://github.com/zimocode/smartup): 鼠标手势，支持多种常用操作。
+
+
 
 ## 浏览器
 
@@ -22,6 +33,8 @@ order: 5
 - [Better History](https://chrome.google.com/webstore/detail/better-history/egehpkpgpgooebopjihjmnpejnjafefi)：按日期、小时罗列历史记录，搜索更便捷。
 
 - [Cookie Editor](https://chrome.google.com/webstore/detail/cookie-editor/iphcomljdfghbkdcfndaijbokpgddeno)：管理、修改、导出 Cookie。
+
+
 
 ## 标签页
 
