@@ -1,5 +1,6 @@
 ---
 article: false
+index: true
 title: CS cfg代码
 icon: list
 order: 6
